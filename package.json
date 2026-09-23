@@ -1,0 +1,28 @@
+{
+  "name": "uppgift-6",
+  "version": "1.0.0",
+  "description": "ubit testing school",
+  "keywords": [
+    "Jest",
+    "unit",
+    "testing"
+  ],
+  "homepage": "https://github.com/Thornedleaf/Uppgift-6#readme",
+  "bugs": {
+    "url": "https://github.com/Thornedleaf/Uppgift-6/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thornedleaf/Uppgift-6.git"
+  },
+  "license": "ISC",
+  "author": "Oskar Josefsson",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
